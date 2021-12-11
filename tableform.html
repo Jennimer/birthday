@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Form</title>
+        <link rel="stylesheet" href="style.css">
+        <meta charset="UTF-8">
+      </head>
+<body id="formbody">
+
+<h1 id="formheader">YHTEYDEN OTOT</h1><br/>
+<h3 class="tabletext">Haluatko lisätietoja tai muita vinkkejä syntymäpäivä juhliin?</h3>
+<h3 class="tabletext">Oheistuotteita kuten kutsukortteja tilattavissa myös oman teemasi ympärille.</h3>
+<h3 class="tabletext">Ota yhteyttä!</h3><br/>
+<form action="action_page.php" method="get">
+<div id="box">
+  <label for="fname">Etunimi:</label><br>
+  <input type="text" id="fname" name="fname"><br/><br/>
+  <label for="lname">Sukunimi:</label><br>
+  <input type="text" id="lname" name="lname"><br/><br/>
+  <label for="lname">Sähköposti:</label><br>
+  <input type="text" id="email" name="email"><br/><br/>
+  
+
+
+    <label for="t-select">Teema josta haluat lisätietoja:</label>
+    <select name="teemat" id="t-select">
+      <option value="tennis">Poliisi-synttärit</option>
+      <option value="badminton">Spiderman-synttäri</option>
+      <option value="padel">Lego-synttärit</option>
+      <option value="pingis">Oma teema</option>
+      
+    </select>
+    <br><br>
+    <p>Oletko</p>
+
+<div class="checkbox">
+  <input type="checkbox" id="yksit" name="yksit"
+         checked>
+  <label for="yksit">yksityishenkilö</label>
+</div>
+
+<div class="checkbox">
+  <input type="checkbox" id="yri" name="yri">
+  <label for="yri">yritys</label>
+</div>
+    <p>Asiasi koskee</p>
+
+
+<textarea id="tarea" rows="8" cols="80" name="comment" required>
+</textarea><br/><br/>
+
+
+    <input id="submit" name="butto" type="submit" value="Lähetä">
+
+ 
+</form>
+
+</div>
+
+</body>
+</html>
