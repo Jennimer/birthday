@@ -121,7 +121,7 @@ h3{
 }
 .btn-secondary {
     margin-top: 50px;
-    margin-left: 30px;
+    margin-left: 10px;
     background-color: rgb(189, 219, 213);
     border: none;
     
@@ -189,7 +189,9 @@ input{
     border-radius: 3px;
    
 }
-
+#t-select{
+    border-radius: 4px;
+}
 textarea{
     box-sizing: border-box;
     border-radius: 4px;
