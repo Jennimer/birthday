@@ -3,6 +3,7 @@
     margin-bottom: 10px;
     color: white;
     display: flex;
+    align-items: center;
 }
 .marginMain{
     margin-top: 10px;
