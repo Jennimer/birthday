@@ -3,7 +3,6 @@
     margin-bottom: 10px;
     color: white;
     display: flex;
-    align-items: center;
 }
 .marginMain{
     margin-top: 10px;
@@ -13,6 +12,9 @@
 .marginLego{
     margin-top: 10px;
     color:white;
+}
+.col-sm-2{
+    align-items: center;
 }
 
 
