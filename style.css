@@ -194,6 +194,7 @@ input{
 }
 #tarea{
     border-radius: 4px;
+    max-width: 100%;
 }
 #formbody{
     margin: 50px;
@@ -204,8 +205,4 @@ input{
 }
 .tabletext{
     margin-left: 10px;
-}
-.textarea{
-
-    max-width: 100%;
 }
