@@ -193,6 +193,7 @@ input{
     border-radius: 4px;
 }
 #tarea{
+    box-sizing: border-box;
     border-radius: 4px;
     max-width: 100%;
 }
