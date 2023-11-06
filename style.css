@@ -94,27 +94,29 @@ img {
     
 }
 h1{
-    
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
     font-size: 50px;
 }
 h2{
     margin: 30px;
-    font-family: FreightBig Pro;
+    font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
 }
 
 
 h3{
-
+    font-family: 'Josefin Sans', sans-serif;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 400;
     margin: 30px;
     margin-left: 50px;
 
 }
 .nav-link{
     color: white;
-    font-weight: 600;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
     font-size: 14px;
     
 }
@@ -132,6 +134,7 @@ h3{
 }
 p{
  font-weight: 300;
+font-family: 'Josefin Sans', sans-serif;
 }
 .mt-3{
     color:rgb(145, 180, 171);
@@ -142,6 +145,7 @@ p{
 }
 .margintext{
     font-size: 14px;
+    font-family: 'Josefin Sans', sans-serif;
     margin: 4px;
     color: rgb(197, 157, 174);
    
