@@ -131,6 +131,10 @@ h3{
       font-size: 16px;
         margin: 0 0 5px 5px;
   }
+    #text {
+      font-size: 14px;
+       
+  }
 }
 a {
     color: white;
@@ -145,12 +149,6 @@ a {
     font-weight: 400;
     font-size: 16px;
 }
-.nav-item{
-        color: white;
-    font-family: 'Josefin Sans', sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-}
 .corousel-inner{
     width: 1500px;
 }
@@ -160,6 +158,7 @@ a {
     border: none;
     
 }
+
 .col-sm-2{
     margin-top: 4px;
 }
