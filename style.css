@@ -115,7 +115,7 @@ h3{
 .nav-link{
     color: white;
     font-weight: 600;
-    font-size: 12px;
+    font-size: 14px;
     
 }
 .corousel-inner{
@@ -202,7 +202,6 @@ textarea{
     margin: 50px;
 }
 #formheader{
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
     color:rgb(145, 180, 171);
 }
 .tabletext{
