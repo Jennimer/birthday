@@ -108,8 +108,8 @@ h2{
 
 h3{
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 24px;
-    font-weight: 300;
+    font-size: 22px;
+    font-weight: 200;
     margin: 30px;
     margin-left: 50px;
 
@@ -134,8 +134,8 @@ a {
     margin-top: 4px;
 }
 p{
- font-weight: 300;
-    font-size: 16px;
+    font-weight: 300;
+    font-size: 18px;
     font-family: 'Josefin Sans', sans-serif;
 }
 .mt-3{
@@ -209,9 +209,12 @@ textarea{
 }
 #formheader{
     color:rgb(145, 180, 171);
+    font-family: 'Josefin Sans', sans-serif;
+    font-Weight: 600;
 }
 .tabletext{
     margin-left: 10px;
+    font-family: 'Josefin Sans', sans-serif;
 }
 .link{
     color:rgb(145, 180, 171);
