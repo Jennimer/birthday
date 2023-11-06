@@ -101,22 +101,21 @@ h1{
 h2{
     margin: 30px;
     font-family: FreightBig Pro;
-    font-style: italic;
-    font-weight: lighter;
+    font-weight: 300;
 }
 
 
 h3{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 15px;
-    font-weight: lighter;
+
+    font-size: 14px;
+    font-weight: 300;
     margin: 30px;
     margin-left: 50px;
 
 }
 .nav-link{
     color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
     font-size: 12px;
     
 }
@@ -133,7 +132,7 @@ h3{
     margin-top: 4px;
 }
 p{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-weight: 300;
 }
 .mt-3{
     color:rgb(145, 180, 171);
@@ -146,7 +145,7 @@ p{
     font-size: 14px;
     margin: 4px;
     color: rgb(197, 157, 174);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
     margin-left: 4px;
     text-align: center;
 }
