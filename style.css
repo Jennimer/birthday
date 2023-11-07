@@ -9,7 +9,7 @@
     display: flex;
 }
 .marginMain{
-    margin-top: 10px;
+    padding: 10px 5px 0 5px;
     color:white;
 }
 
@@ -106,9 +106,7 @@ h2{
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 300;
 
-
 }
-
 
 h3{
     font-family: 'Josefin Sans', sans-serif;
@@ -116,7 +114,6 @@ h3{
     font-weight: 200;
     margin: 25px;
     margin-left: 50px;
-
 
 }
 @media only screen and (max-width: 1000px) {
@@ -131,7 +128,7 @@ h3{
       font-size: 16px;
         margin: 0 0 10px 10px;
   }
-    #dropdownMenu {
+    .btn-secondary {
       font-size: 14px;
        
   }
@@ -144,7 +141,7 @@ a {
     
 }
 .nav-link {
-        color: white;
+    color: white;
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -167,6 +164,7 @@ p{
     font-size: 18px;
     font-family: 'Josefin Sans', sans-serif;
 }
+
 .mt-3{
     color:rgb(145, 180, 171);
     margin: 2px;
