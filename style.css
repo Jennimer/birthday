@@ -210,35 +210,42 @@ input{
     margin: 10px;
     border: 1px solid;
     border-radius:  4px;
-    
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 #submit{
    background-color: rgb(104, 134, 127);
+    font-family: 'Josefin Sans', sans-serif;
 }
 #tarea{
     margin-left: 13px;
+    font-family: 'Josefin Sans', sans-serif;
 }
 #box{
     background-color: rgb(145, 180, 171);;
     padding: 20px;
     border-radius: 4px;
+    font-family: 'Josefin Sans', sans-serif;
 }
 .checkbox{
     width: 20%;
     border-radius: 3px;
+    font-family: 'Josefin Sans', sans-serif;
    
 }
 #t-select{
     border-radius: 4px;
+    font-family: 'Josefin Sans', sans-serif;
 }
 textarea{
     box-sizing: border-box;
     border-radius: 4px;
     max-width: 100%;
+    font-family: 'Josefin Sans', sans-serif;
 }
 #formbody{
     margin: 50px;
+    font-family: 'Josefin Sans', sans-serif;
 }
 #formheader{
     color:rgb(145, 180, 171);
@@ -251,5 +258,5 @@ textarea{
 }
 .link{
     color:rgb(145, 180, 171);
-    
+    font-family: 'Josefin Sans', sans-serif;
 }
