@@ -125,17 +125,20 @@ h3{
     font-size: 35px;
   }
       h2 {
-      font-size: 20px;
+      font-size: 18px;
         margin: 0 10px 10px 20px;
   }
           h3 {
-      font-size: 16px;
+      font-size: 14px;
         margin: 0 10px 10px 20px;
   }
     .btn-secondary {
       font-size: 14px;
        
   }
+    .margintext{
+    font-size: 12px;
+    }
 }
 a {
     color: white;
